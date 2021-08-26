@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm an Informatic Engineer with a deep love for knowledge and software development, actually in a postgraduate course for Internet of Things
+
 <!--
 **kathesama/kathesama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
